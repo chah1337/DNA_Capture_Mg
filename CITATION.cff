@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Comparison of Four Mycoplasma genitalium Typing Methods"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+
+* family-names: "Herice"
+  given-names: "Charlotte"
+
+abstract: >
+Reproducible workflow for the comparison of four
+Mycoplasma genitalium typing methods using phylogenetic
+tree topology analyses. The repository contains raw and
+aligned FASTA sequences, RAxML-NG phylogenetic trees,
+tree generation commands, and an R script implementing
+Robinson-Foulds and Kendall-Colijn distance analyses.
+
+keywords:
+
+* Mycoplasma genitalium
+* molecular typing
+* phylogenetics
+* cgMLST
+* wgSNP
+* hMy-MLST
+* mgpB
+* tree comparison
+* bioinformatics
+
+license: MIT
+
+version: 1.0.0
+date-released: 2026-06-04
+
+preferred-citation:
+type: article
+title: "Comparison of Four Mycoplasma genitalium Typing Methods"
